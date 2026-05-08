@@ -1,0 +1,2 @@
+# LEI N° 4559, DE 07 DE MAIO DE 2026 Súmula: Altera a Lei nº 4428, de 29 de julho de 2025, que autorizou o Poder Executivo Municipal a firmar Termo de Fomento com a Associação da Feira da Agricultura Familiar para repasse de recursos financeiros e dá outras providências.
+A Câmara Municipal de Lapa, Estado do Paraná, APROVOU, e eu, Prefeito Municipal, no uso das atribuições legais que me são conferidas, SANCIONO a seguinte Lei:
