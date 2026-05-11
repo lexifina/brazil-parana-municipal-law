@@ -1,0 +1,2 @@
+# LEI Nº 2.663/2026 Altera a Lei Municipal nº 2.594/2025, que cria o Sistema Municipal de Juventude, o Conselho Municipal de Juventude de Piraquara - COMJUPI, institui a Conferência Municipal da Juventude, cria o Fundo Municipal da Juventude de Piraquara - FUMJUPI e dá outras providências.
+A CÂMARA MUNICIPAL DE PIRAQUARA, Estado do Paraná, aprovou e eu, Prefeito Municipal, sanciono a seguinte lei:
