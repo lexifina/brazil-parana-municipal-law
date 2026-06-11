@@ -1,0 +1,2 @@
+# LEI Nº 4567, DE 10 DE JUNHO DE 2026 Súmula: Dispõe sobre a inclusão da Unidade 16 - Fundo Municipal de Saneamento Básico e Ambiental (FMSBA) e suas Ações 2570, 2571, 2572 e 2573 ao Órgão 11 Secretaria Municipal de Obras, Projetos, Urbanismo, Saneamento, Trânsito e Transporte, na Lei nº 4455/2025, que dispõe sobre o Plano Plurianual para o quadriênio 2026 à 2029, e dá outras providências.
+A Câmara Municipal de Lapa, Estado do Paraná, APROVOU, e eu, Prefeito Municipal, no uso das atribuições legais que me são conferidas, SANCIONO a seguinte Lei:
