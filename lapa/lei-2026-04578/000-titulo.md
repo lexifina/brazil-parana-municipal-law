@@ -1,0 +1,3 @@
+# LEI Nº 4578, DE 03 DE JULHO DE 2026 Súmula:
+Autoriza o Poder Executivo Municipal em conjunto com o Conselho Municipal de Assistência Social - CMAS/ LAPA-PR e o Fundo Municipal de Assistência Social - FMAS/LAPA-PR a firmar Termo de Colaboração com a Associação de Pais e Amigos dos Excepcionais da Lapa - APAE, para repasse de recursos financeiros provenientes do Fundo Nacional de Assistência Social, e dá outras providências.
+A Câmara Municipal de Lapa, Estado do Paraná, APROVOU, e eu, Prefeito Municipal, no uso das atribuições legais que me são conferidas, SANCIONO a seguinte Lei:
