@@ -1,0 +1,2 @@
+# LEI Nº 4583, DE 16 DE JULHO DE 2026 Súmula: Institui a Política Municipal de Alfabetização do Município da Lapa e estabelece princípios, objetivos, diretrizes e mecanismos para a promoção da alfabetização das crianças, em consonância com o Programa Educa Juntos, a Estratégia Alfabetiza Juntos e o Compromisso Nacional Criança Alfabetizada.
+A Câmara Municipal de Lapa, Estado do Paraná, APROVOU, e eu, Prefeito Municipal, no uso das atribuições legais que me são conferidas, SANCIONO a seguinte Lei:
