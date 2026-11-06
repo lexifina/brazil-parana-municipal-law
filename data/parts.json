@@ -1,5 +1,19 @@
 {
  "parts": {
+  "cambe--30-leis-001.json": {
+   "acts": [
+    "cambe/lei-2025-03302",
+    "cambe/lei-2026-03333",
+    "cambe/lei-2026-03336"
+   ],
+   "sha256": "8f1b7a42a2cceae69bd1a7691c2e3168accd66e51346a0ff467967887a8ac52f"
+  },
+  "campo-largo--30-leis-009.json": {
+   "acts": [
+    "campo-largo/lei-2026-04044"
+   ],
+   "sha256": "09bf0b0333d6d9d6f8078e9bc66e5dcca096603177c104e4ff3502ae11e8fb15"
+  },
   "castro--30-leis-001.json": {
    "acts": [
     "castro/lei-2026-04340",
@@ -46,6 +60,37 @@
     "irati/lei-2026-05394"
    ],
    "sha256": "58408ae5c87fd089f17b2884a2c64e1c3dac9045f172ca30ae2473f58f393885"
+  },
+  "lapa--30-leis-001.json": {
+   "acts": [
+    "lapa/lc-2026-00070",
+    "lapa/lc-2026-00071",
+    "lapa/lei-2026-04559",
+    "lapa/lei-2026-04564",
+    "lapa/lei-2026-04567",
+    "lapa/lei-2026-04568",
+    "lapa/lei-2026-04573",
+    "lapa/lei-2026-04574",
+    "lapa/lei-2026-04575",
+    "lapa/lei-2026-04577",
+    "lapa/lei-2026-04578",
+    "lapa/lei-2026-04579",
+    "lapa/lei-2026-04580",
+    "lapa/lei-2026-04583",
+    "lapa/lei-2026-04587",
+    "lapa/lei-2026-04588",
+    "lapa/lei-2026-04589",
+    "lapa/lei-2026-04590",
+    "lapa/lei-2026-04591",
+    "lapa/lei-2026-04592",
+    "lapa/lei-2026-04594",
+    "lapa/lei-2026-04598",
+    "lapa/lei-2026-04599",
+    "lapa/lei-2026-04600",
+    "lapa/lei-2026-04602",
+    "lapa/lei-2026-04603"
+   ],
+   "sha256": "1946acbb6a9541e9baa1cdf95039fa3ad24337c5f56971f5e59b52b50c91c07f"
   },
   "piraquara--30-leis-001.json": {
    "acts": [

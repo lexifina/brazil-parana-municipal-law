@@ -9,6 +9,9 @@ This file is written by the build on 2026-11-06, the day the source data was ret
 | Câmara Municipal de Piraquara, SAPL: records of the municipal laws and their PDFs (newest first) | <https://sapl.piraquara.pr.leg.br/norma/pesquisar> | 2026-11-06 | Texts: Câmara Municipal de Piraquara, SAPL (Sistema de Apoio ao Processo Legislativo), sapl.piraquara.pr.leg.br; SAPL: "Conteúdo e dados sob licença Creative Commons 4.0 Atribuir Fonte - Compartilhar Igual". Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the official gazette is authoritative. |
 | Câmara Municipal de Castro, SAPL: records of the municipal laws and their PDFs (newest first) | <https://sapl.castro.pr.leg.br/norma/pesquisar> | 2026-11-06 | Texts: Câmara Municipal de Castro, SAPL (Sistema de Apoio ao Processo Legislativo), sapl.castro.pr.leg.br; SAPL: "Conteúdo e dados sob licença Creative Commons 4.0 Atribuir Fonte - Compartilhar Igual". Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the official gazette is authoritative. |
 | Câmara Municipal de Irati, SAPL: records of the municipal laws and their PDFs (newest first) | <https://sapl.irati.pr.leg.br/norma/pesquisar> | 2026-11-06 | Texts: Câmara Municipal de Irati, SAPL (Sistema de Apoio ao Processo Legislativo), sapl.irati.pr.leg.br; SAPL: "Conteúdo e dados sob licença Creative Commons 4.0 Atribuir Fonte - Compartilhar Igual". Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the official gazette is authoritative. |
+| Câmara Municipal de Cambé, SAPL: records of the municipal laws and their PDFs (newest first) | <https://sapl.cambe.pr.leg.br/norma/pesquisar> | 2026-11-06 | Texts: Câmara Municipal de Cambé, SAPL (Sistema de Apoio ao Processo Legislativo), sapl.cambe.pr.leg.br; SAPL: "Conteúdo e dados sob licença Creative Commons 4.0 Atribuir Fonte - Compartilhar Igual". Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the official gazette is authoritative. |
+| Câmara Municipal de Campo Largo, SAPL: records of the municipal laws and their PDFs (newest first) | <https://sapl.campolargo.pr.leg.br/norma/pesquisar> | 2026-11-06 | Texts: Câmara Municipal de Campo Largo, SAPL (Sistema de Apoio ao Processo Legislativo), sapl.campolargo.pr.leg.br; SAPL: "Conteúdo e dados sob licença Creative Commons 4.0 Atribuir Fonte - Compartilhar Igual". Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the official gazette is authoritative. |
+| Câmara Municipal de Lapa, SAPL: records of the municipal laws and their PDFs (newest first) | <https://sapl.lapa.pr.leg.br/norma/pesquisar> | 2026-11-06 | Texts: Câmara Municipal de Lapa, SAPL (Sistema de Apoio ao Processo Legislativo), sapl.lapa.pr.leg.br; SAPL: "Conteúdo e dados sob licença Creative Commons 4.0 Atribuir Fonte - Compartilhar Igual". Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the official gazette is authoritative. |
 
 Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
 
@@ -16,6 +19,10 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 
 | Act | Title | Versions | Span |
 | --- | --- | ---: | --- |
+| `cambe/lei-2026-03336` | Lei nº 3.336, de 13 de julho de 2026 | 1 | 2026-07-13 to 2026-07-13 |
+| `cambe/lei-2026-03333` | Lei nº 3.333, de 6 de julho de 2026 | 1 | 2026-07-06 to 2026-07-06 |
+| `cambe/lei-2025-03302` | Lei nº 3.302, de 18 de novembro de 2025 | 1 | 2025-11-19 to 2025-11-19 |
+| `campo-largo/lei-2026-04044` | Lei nº 4.044, de 2 de julho de 2026 | 1 | 2026-07-02 to 2026-07-02 |
 | `castro/lei-2026-04387` | Lei nº 4.387, de 25 de setembro de 2026 | 1 | 2026-09-28 to 2026-09-28 |
 | `castro/lei-2026-04385` | Lei nº 4.385, de 23 de setembro de 2026 | 1 | 2026-09-24 to 2026-09-24 |
 | `castro/lei-2026-04381` | Lei nº 4.381, de 18 de setembro de 2026 | 1 | 2026-09-23 to 2026-09-23 |
@@ -53,6 +60,32 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `irati/lei-2026-05385` | Lei nº 5.385, de 30 de setembro de 2026 | 1 | 2026-10-01 to 2026-10-01 |
 | `irati/lei-2026-05384` | Lei nº 5.384, de 30 de setembro de 2026 | 1 | 2026-10-01 to 2026-10-01 |
 | `irati/lei-2026-05375` | Lei nº 5.375, de 19 de agosto de 2026 | 1 | 2026-08-20 to 2026-08-20 |
+| `lapa/lei-2026-04603` | Lei nº 4.603, de 24 de setembro de 2026 | 1 | 2026-09-25 to 2026-09-25 |
+| `lapa/lei-2026-04602` | Lei nº 4.602, de 17 de setembro de 2026 | 1 | 2026-09-18 to 2026-09-18 |
+| `lapa/lei-2026-04600` | Lei nº 4.600, de 16 de setembro de 2026 | 1 | 2026-09-17 to 2026-09-17 |
+| `lapa/lei-2026-04599` | Lei nº 4.599, de 16 de setembro de 2026 | 1 | 2026-09-17 to 2026-09-17 |
+| `lapa/lei-2026-04598` | Lei nº 4.598, de 10 de setembro de 2026 | 1 | 2026-09-11 to 2026-09-11 |
+| `lapa/lei-2026-04594` | Lei nº 4.594, de 26 de agosto de 2026 | 1 | 2026-08-27 to 2026-08-27 |
+| `lapa/lei-2026-04592` | Lei nº 4.592, de 14 de agosto de 2026 | 1 | 2026-08-17 to 2026-08-17 |
+| `lapa/lei-2026-04591` | Lei nº 4.591, de 11 de agosto de 2026 | 1 | 2026-08-12 to 2026-08-12 |
+| `lapa/lei-2026-04590` | Lei nº 4.590, de 5 de agosto de 2026 | 1 | 2026-08-06 to 2026-08-06 |
+| `lapa/lei-2026-04589` | Lei nº 4.589, de 30 de julho de 2026 | 1 | 2026-07-31 to 2026-07-31 |
+| `lapa/lei-2026-04588` | Lei nº 4.588, de 30 de julho de 2026 | 1 | 2026-07-31 to 2026-07-31 |
+| `lapa/lei-2026-04587` | Lei nº 4.587, de 30 de julho de 2026 | 1 | 2026-07-31 to 2026-07-31 |
+| `lapa/lei-2026-04583` | Lei nº 4.583, de 16 de julho de 2026 | 1 | 2026-07-17 to 2026-07-17 |
+| `lapa/lei-2026-04580` | Lei nº 4.580, de 9 de julho de 2026 | 1 | 2026-07-10 to 2026-07-10 |
+| `lapa/lei-2026-04579` | Lei nº 4.579, de 9 de julho de 2026 | 1 | 2026-07-10 to 2026-07-10 |
+| `lapa/lei-2026-04578` | Lei nº 4.578, de 3 de julho de 2026 | 1 | 2026-07-06 to 2026-07-06 |
+| `lapa/lei-2026-04577` | Lei nº 4.577, de 3 de julho de 2026 | 1 | 2026-07-06 to 2026-07-06 |
+| `lapa/lei-2026-04575` | Lei nº 4.575, de 2 de julho de 2026 | 1 | 2026-07-03 to 2026-07-03 |
+| `lapa/lei-2026-04574` | Lei nº 4.574, de 2 de julho de 2026 | 1 | 2026-07-03 to 2026-07-03 |
+| `lapa/lei-2026-04573` | Lei nº 4.573, de 2 de julho de 2026 | 1 | 2026-07-03 to 2026-07-03 |
+| `lapa/lc-2026-00071` | Lei Complementar nº 71, de 2 de julho de 2026 | 1 | 2026-07-03 to 2026-07-03 |
+| `lapa/lc-2026-00070` | Lei Complementar nº 70, de 2 de julho de 2026 | 1 | 2026-07-03 to 2026-07-03 |
+| `lapa/lei-2026-04568` | Lei nº 4.568, de 10 de junho de 2026 | 1 | 2026-06-11 to 2026-06-11 |
+| `lapa/lei-2026-04567` | Lei nº 4.567, de 10 de junho de 2026 | 1 | 2026-06-11 to 2026-06-11 |
+| `lapa/lei-2026-04564` | Lei nº 4.564, de 22 de maio de 2026 | 1 | 2026-05-25 to 2026-05-25 |
+| `lapa/lei-2026-04559` | Lei nº 4.559, de 7 de maio de 2026 | 1 | 2026-05-08 to 2026-05-08 |
 | `piraquara/lei-2026-02678` | Lei nº 2.678, de 21 de maio de 2026 | 1 | 2026-05-25 to 2026-05-25 |
 | `piraquara/lei-2026-02672` | Lei nº 2.672, de 14 de maio de 2026 | 1 | 2026-05-18 to 2026-05-18 |
 | `piraquara/lei-2026-02670` | Lei nº 2.670, de 12 de maio de 2026 | 1 | 2026-05-13 to 2026-05-13 |
@@ -75,19 +108,19 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `piraquara/lei-2026-02644` | Lei nº 2.644, de 24 de fevereiro de 2026 | 1 | 2026-02-26 to 2026-02-26 |
 | `piraquara/lei-2025-02636` | Lei nº 2.636, de 2 de dezembro de 2025 | 1 | 2025-12-03 to 2025-12-03 |
 
-The build made 58 commits:
+The build made 88 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 58 | first version of an act |
+| 88 | first version of an act |
 | 0 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 0 commits on the branch `futuro`: laws not yet in force on 2026-11-06.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 58 laws in the record.
-- 116 tags.
+- 88 laws in the record.
+- 176 tags.
 
 ## Dates
 
@@ -99,13 +132,13 @@ When a law gives no date of its own, the default rule applies: Decreto-Lei 4.657
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `4d25635cd782fcee2ab41ce6001f51e0f3fc5e86079101cf5402d42681353b9f` (357721 bytes).
+- Corpus: sha256 `fb41cd14ee2f932970f52747f2e6115d52d2a7ed49c2208dba740df1156201de` (527348 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `3024ff164c261807dfc4d5b7b1b4a2cde4357da1`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.14.4; git version 2.53.0.
 
 ## Checks
 
-58 versions of 58 acts read back from git on the day each took effect and on the day before: 0 mismatches. Trailers: 0 commits whose trailers git cannot parse. Health: 0 merge commits on main, 0 commit dates that go backwards, 0 commits dated after the build.
+88 versions of 88 acts read back from git on the day each took effect and on the day before: 0 mismatches. Trailers: 0 commits whose trailers git cannot parse. Health: 0 merge commits on main, 0 commit dates that go backwards, 0 commits dated after the build.
 
 No second build of this corpus has been compared yet.
 

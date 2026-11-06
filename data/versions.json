@@ -2,6 +2,66 @@
  "country": "BR-PR-MUNICIPAL",
  "acts": [
   {
+   "slug": "cambe/lei-2026-03336",
+   "unit": "cambe",
+   "short": "Lei 3336/2026",
+   "title": "Lei nº 3.336, de 13 de julho de 2026",
+   "url": "https://sapl.cambe.pr.leg.br/norma/5155",
+   "versions": [
+    {
+     "from": "2026-07-13",
+     "units": 6,
+     "source_url": "https://sapl.cambe.pr.leg.br/media/sapl/public/normajuridica/2026/5155/lei3336_-2026_altera_ppa_2026-2029_-_compatibilizacao_ldo_2027_abril_versao_2_ppa.pdf",
+     "sha256": "165791a6273281309033b828e8e73a6539dba4e8e3957ddd8516f216412cdf9e"
+    }
+   ]
+  },
+  {
+   "slug": "cambe/lei-2026-03333",
+   "unit": "cambe",
+   "short": "Lei 3333/2026",
+   "title": "Lei nº 3.333, de 6 de julho de 2026",
+   "url": "https://sapl.cambe.pr.leg.br/norma/5152",
+   "versions": [
+    {
+     "from": "2026-07-06",
+     "units": 23,
+     "source_url": "https://sapl.cambe.pr.leg.br/media/sapl/public/normajuridica/2026/5152/lei3333-2026.pdf",
+     "sha256": "3d1743c1a9d2923881f4af852625ed1a382ba44da521533b55128562a8619272"
+    }
+   ]
+  },
+  {
+   "slug": "cambe/lei-2025-03302",
+   "unit": "cambe",
+   "short": "Lei 3302/2025",
+   "title": "Lei nº 3.302, de 18 de novembro de 2025",
+   "url": "https://sapl.cambe.pr.leg.br/norma/5047",
+   "versions": [
+    {
+     "from": "2025-11-19",
+     "units": 3,
+     "source_url": "https://sapl.cambe.pr.leg.br/media/sapl/public/normajuridica/2025/5047/lei3302-2025.pdf",
+     "sha256": "d4ab88ec2a54f20326300dea01bc3697df7bc6b1f8385898c7ab46c18a4a048c"
+    }
+   ]
+  },
+  {
+   "slug": "campo-largo/lei-2026-04044",
+   "unit": "campo-largo",
+   "short": "Lei 4044/2026",
+   "title": "Lei nº 4.044, de 2 de julho de 2026",
+   "url": "https://sapl.campolargo.pr.leg.br/norma/2113",
+   "versions": [
+    {
+     "from": "2026-07-02",
+     "units": 3,
+     "source_url": "https://sapl.campolargo.pr.leg.br/media/sapl/public/normajuridica/2026/2113/lei_n_4044.pdf",
+     "sha256": "ae177de1a76f2a0c7d74aac9fc08833d80a70b6a6db8da601a490fcd4a6b87ab"
+    }
+   ]
+  },
+  {
    "slug": "castro/lei-2026-04387",
    "unit": "castro",
    "short": "Lei 4387/2026",
@@ -553,6 +613,396 @@
      "units": 7,
      "source_url": "https://sapl.irati.pr.leg.br/media/sapl/public/normajuridica/2026/5134/lei_no_5.375_de_19_de_agosto_de_2026_-_reversao_da_concessao_aspana.pdf",
      "sha256": "bc998b83bf2d8a62bb9ab6c83c9bb3d77b37d5b7ce3e934ec8128503107e49bb"
+    }
+   ]
+  },
+  {
+   "slug": "lapa/lei-2026-04603",
+   "unit": "lapa",
+   "short": "Lei 4603/2026",
+   "title": "Lei nº 4.603, de 24 de setembro de 2026",
+   "url": "https://sapl.lapa.pr.leg.br/norma/6036",
+   "versions": [
+    {
+     "from": "2026-09-25",
+     "units": 6,
+     "source_url": "https://sapl.lapa.pr.leg.br/media/sapl/public/normajuridica/2026/6036/4603_-_77_-_of._297-26_-_p.d._19153_obras_suplem_exc_acordo_extrajudicial_cotrans_-_lei.pdf",
+     "sha256": "8d2b778a3e08a58d468740dfda7187e013101768c11de13a7a092658f1bae81a"
+    }
+   ]
+  },
+  {
+   "slug": "lapa/lei-2026-04602",
+   "unit": "lapa",
+   "short": "Lei 4602/2026",
+   "title": "Lei nº 4.602, de 17 de setembro de 2026",
+   "url": "https://sapl.lapa.pr.leg.br/norma/6031",
+   "versions": [
+    {
+     "from": "2026-09-18",
+     "units": 39,
+     "source_url": "https://sapl.lapa.pr.leg.br/media/sapl/public/normajuridica/2026/6031/4602_-_70_-_of._249-26_-_pd_18438-2026_-_cria_o_conselho_municipal_da_cidade_da_lapa_-_concidade-lapa.pdf",
+     "sha256": "231df885aa8f7c5194158e1c016a0f0d6869bdaf42c5b80da5129a858707268a"
+    }
+   ]
+  },
+  {
+   "slug": "lapa/lei-2026-04600",
+   "unit": "lapa",
+   "short": "Lei 4600/2026",
+   "title": "Lei nº 4.600, de 16 de setembro de 2026",
+   "url": "https://sapl.lapa.pr.leg.br/norma/6029",
+   "versions": [
+    {
+     "from": "2026-09-17",
+     "units": 3,
+     "source_url": "https://sapl.lapa.pr.leg.br/media/sapl/public/normajuridica/2026/6029/4600_-_79_-_of._301-26_-_pd_10383-2025revoga_a_lei_3220-2016_-_taxa_de_incendio.pdf",
+     "sha256": "0c44c8653e81c1d7c8305e30ad41042de1927f17532e2254506c9b51d67d5114"
+    }
+   ]
+  },
+  {
+   "slug": "lapa/lei-2026-04599",
+   "unit": "lapa",
+   "short": "Lei 4599/2026",
+   "title": "Lei nº 4.599, de 16 de setembro de 2026",
+   "url": "https://sapl.lapa.pr.leg.br/norma/6028",
+   "versions": [
+    {
+     "from": "2026-09-17",
+     "units": 14,
+     "source_url": "https://sapl.lapa.pr.leg.br/media/sapl/public/normajuridica/2026/6028/4599_-_78_-_of._300-25_-_pd_10460-2025_-_reestruturacao_do_funrebom_-_revoga_a_lei_3166-2015.pdf",
+     "sha256": "e6f0dc25873507d42c69e54ac12269de7e5339a538646aca9ec5343c35f244eb"
+    }
+   ]
+  },
+  {
+   "slug": "lapa/lei-2026-04598",
+   "unit": "lapa",
+   "short": "Lei 4598/2026",
+   "title": "Lei nº 4.598, de 10 de setembro de 2026",
+   "url": "https://sapl.lapa.pr.leg.br/norma/6027",
+   "versions": [
+    {
+     "from": "2026-09-11",
+     "units": 3,
+     "source_url": "https://sapl.lapa.pr.leg.br/media/sapl/public/normajuridica/2026/6027/4598_-_85_-_camara_-_p.d._22072-2026_-_denomina_de_rua_miguel_camargo_neto.pdf",
+     "sha256": "56a6c2fda5a0929ea7be205608345f656d4b1e2ccd5397bac5a5afb339ed0242"
+    }
+   ]
+  },
+  {
+   "slug": "lapa/lei-2026-04594",
+   "unit": "lapa",
+   "short": "Lei 4594/2026",
+   "title": "Lei nº 4.594, de 26 de agosto de 2026",
+   "url": "https://sapl.lapa.pr.leg.br/norma/6023",
+   "versions": [
+    {
+     "from": "2026-08-27",
+     "units": 3,
+     "source_url": "https://sapl.lapa.pr.leg.br/media/sapl/public/normajuridica/2026/6023/4594_-_pd_19895-2026_-_alt._inc._viii_do_art._1_da_lei_2748_-_vedacao-ocupar_cargos.funcoes_publ.pdf",
+     "sha256": "4b665e79e7856c7a552c6dab86f23f3415c410562634cdb312ab6d17106bbb0a"
+    }
+   ]
+  },
+  {
+   "slug": "lapa/lei-2026-04592",
+   "unit": "lapa",
+   "short": "Lei 4592/2026",
+   "title": "Lei nº 4.592, de 14 de agosto de 2026",
+   "url": "https://sapl.lapa.pr.leg.br/norma/6021",
+   "versions": [
+    {
+     "from": "2026-08-17",
+     "units": 6,
+     "source_url": "https://sapl.lapa.pr.leg.br/media/sapl/public/normajuridica/2026/6021/4592_-_72_-_of._261-26_-_pd_17498-2026_-_termo_de_fomento_-_apae_-_lei.pdf",
+     "sha256": "a84fbbb9d0ebdbf296ba204fdb51695cef994bf29e03d89b39aa17cc9f811688"
+    }
+   ]
+  },
+  {
+   "slug": "lapa/lei-2026-04591",
+   "unit": "lapa",
+   "short": "Lei 4591/2026",
+   "title": "Lei nº 4.591, de 11 de agosto de 2026",
+   "url": "https://sapl.lapa.pr.leg.br/norma/6020",
+   "versions": [
+    {
+     "from": "2026-08-12",
+     "units": 5,
+     "source_url": "https://sapl.lapa.pr.leg.br/media/sapl/public/normajuridica/2026/6020/4591_-p.d._18826-2026_-_obrigatoriedade_de_notificacao_-_sanepar.pdf",
+     "sha256": "3c418ea75cc4f5c086576c0ca90763648ce519c142f543c1acbb6bbcad6a2f53"
+    }
+   ]
+  },
+  {
+   "slug": "lapa/lei-2026-04590",
+   "unit": "lapa",
+   "short": "Lei 4590/2026",
+   "title": "Lei nº 4.590, de 5 de agosto de 2026",
+   "url": "https://sapl.lapa.pr.leg.br/norma/6019",
+   "versions": [
+    {
+     "from": "2026-08-06",
+     "units": 6,
+     "source_url": "https://sapl.lapa.pr.leg.br/media/sapl/public/normajuridica/2026/6019/4590_-_71_-_of._255_-_pd_6855-2026_-_termo_de_fomento_-_amas_-_r_15.15400_-_lei.pdf",
+     "sha256": "075285acc9515ff033d22f01cc6a93d7612875bf19971195fd06ad573d7e9d47"
+    }
+   ]
+  },
+  {
+   "slug": "lapa/lei-2026-04589",
+   "unit": "lapa",
+   "short": "Lei 4589/2026",
+   "title": "Lei nº 4.589, de 30 de julho de 2026",
+   "url": "https://sapl.lapa.pr.leg.br/norma/6018",
+   "versions": [
+    {
+     "from": "2026-07-31",
+     "units": 4,
+     "source_url": "https://sapl.lapa.pr.leg.br/media/sapl/public/normajuridica/2026/6018/4589_-_69_-_of._248-2026_-_p.d._17615_fumip_especial_excesso_vinculo_507.pdf",
+     "sha256": "b74100b41f31e90937eb717cfc7bc7611da65934496e184012d9d08b245d3493"
+    }
+   ]
+  },
+  {
+   "slug": "lapa/lei-2026-04588",
+   "unit": "lapa",
+   "short": "Lei 4588/2026",
+   "title": "Lei nº 4.588, de 30 de julho de 2026",
+   "url": "https://sapl.lapa.pr.leg.br/norma/6017",
+   "versions": [
+    {
+     "from": "2026-07-31",
+     "units": 4,
+     "source_url": "https://sapl.lapa.pr.leg.br/media/sapl/public/normajuridica/2026/6017/4588_-_68_-_of._247-2026_-_p.d._17615_fumip_especial_superavit_vinculo_507.pdf",
+     "sha256": "d2ddf9713b68af1fcc158b64e3d169265bc4d0eb63d045d0e657bf5373474d58"
+    }
+   ]
+  },
+  {
+   "slug": "lapa/lei-2026-04587",
+   "unit": "lapa",
+   "short": "Lei 4587/2026",
+   "title": "Lei nº 4.587, de 30 de julho de 2026",
+   "url": "https://sapl.lapa.pr.leg.br/norma/6016",
+   "versions": [
+    {
+     "from": "2026-07-31",
+     "units": 12,
+     "source_url": "https://sapl.lapa.pr.leg.br/media/sapl/public/normajuridica/2026/6016/4587_-_77_camara_-_p.d._18827-2026_-_institui_a_horaria_titulo_de_jovem_destaque_da_lapa.pdf",
+     "sha256": "37c11911f162a37ed5cfc302be32af006e2262d9f2aa883abc04384d3fb8ffbf"
+    }
+   ]
+  },
+  {
+   "slug": "lapa/lei-2026-04583",
+   "unit": "lapa",
+   "short": "Lei 4583/2026",
+   "title": "Lei nº 4.583, de 16 de julho de 2026",
+   "url": "https://sapl.lapa.pr.leg.br/norma/6012",
+   "versions": [
+    {
+     "from": "2026-07-17",
+     "units": 12,
+     "source_url": "https://sapl.lapa.pr.leg.br/media/sapl/public/normajuridica/2026/6012/4583_-_65_-_of._243-26_-_pd_17467-2026_-_institui_a_politica_municipal_de_alfabetizacao.pdf",
+     "sha256": "a5d3fbc1c39b16321333017af95078c591823b5f2e62a7e52008e411db6705c7"
+    }
+   ]
+  },
+  {
+   "slug": "lapa/lei-2026-04580",
+   "unit": "lapa",
+   "short": "Lei 4580/2026",
+   "title": "Lei nº 4.580, de 9 de julho de 2026",
+   "url": "https://sapl.lapa.pr.leg.br/norma/6009",
+   "versions": [
+    {
+     "from": "2026-07-10",
+     "units": 3,
+     "source_url": "https://sapl.lapa.pr.leg.br/media/sapl/public/normajuridica/2026/6009/4580_-_64_-_of._237-26_-_pd_16142-26_-_social_inc_ldo_4566-26_adeq_subfuncoes_122_245_-_lei.pdf",
+     "sha256": "1064a539de563f8b603cc39146703998f50091cc789fe1ae49c0cd359eb470af"
+    }
+   ]
+  },
+  {
+   "slug": "lapa/lei-2026-04579",
+   "unit": "lapa",
+   "short": "Lei 4579/2026",
+   "title": "Lei nº 4.579, de 9 de julho de 2026",
+   "url": "https://sapl.lapa.pr.leg.br/norma/6008",
+   "versions": [
+    {
+     "from": "2026-07-10",
+     "units": 3,
+     "source_url": "https://sapl.lapa.pr.leg.br/media/sapl/public/normajuridica/2026/6008/4579_-_63_-_of._236-26_-_pd_16142-26_-_social_inc_ppa_l_4455-25_adequacao_subfuncoes_122_245-_lei.pdf",
+     "sha256": "723aa8a82c2fc71ba0e9932d9e1d1e3895a9d38c8a89dc93b131064be327065d"
+    }
+   ]
+  },
+  {
+   "slug": "lapa/lei-2026-04578",
+   "unit": "lapa",
+   "short": "Lei 4578/2026",
+   "title": "Lei nº 4.578, de 3 de julho de 2026",
+   "url": "https://sapl.lapa.pr.leg.br/norma/6003",
+   "versions": [
+    {
+     "from": "2026-07-06",
+     "units": 6,
+     "source_url": "https://sapl.lapa.pr.leg.br/media/sapl/public/normajuridica/2026/6003/4578_-_61_-_of._223-26_-_pd_13329-2026_-_termo_de_colaboracao_-_100.00000_-_apae_-_lei.pdf",
+     "sha256": "2526c887cc01cee37684e21e8b8f60ef8a1d212cf7a591865454c2599090b402"
+    }
+   ]
+  },
+  {
+   "slug": "lapa/lei-2026-04577",
+   "unit": "lapa",
+   "short": "Lei 4577/2026",
+   "title": "Lei nº 4.577, de 3 de julho de 2026",
+   "url": "https://sapl.lapa.pr.leg.br/norma/6002",
+   "versions": [
+    {
+     "from": "2026-07-06",
+     "units": 6,
+     "source_url": "https://sapl.lapa.pr.leg.br/media/sapl/public/normajuridica/2026/6002/4577_-_60_-_of._222-26_-_pd_13325-2026_-_termo_de_colaboracao_-_200.00000_-_apae_-_lei.pdf",
+     "sha256": "a4970f4826de3a1b2ba82303699a210b4400fdb0e8ba68f8acbbc76bc3d5381c"
+    }
+   ]
+  },
+  {
+   "slug": "lapa/lei-2026-04575",
+   "unit": "lapa",
+   "short": "Lei 4575/2026",
+   "title": "Lei nº 4.575, de 2 de julho de 2026",
+   "url": "https://sapl.lapa.pr.leg.br/norma/6000",
+   "versions": [
+    {
+     "from": "2026-07-03",
+     "units": 3,
+     "source_url": "https://sapl.lapa.pr.leg.br/media/sapl/public/normajuridica/2026/6000/4575_-_57_-_of._212-26_-_p.d._13636_social_esp_inc_ldo_4427-25_-_acao_construcao_do_cras_ii_-_lei.pdf",
+     "sha256": "7cc7819d81eec8d58cf9cd37c1f457600c5a13a91499c914fb781b847bd7af84"
+    }
+   ]
+  },
+  {
+   "slug": "lapa/lei-2026-04574",
+   "unit": "lapa",
+   "short": "Lei 4574/2026",
+   "title": "Lei nº 4.574, de 2 de julho de 2026",
+   "url": "https://sapl.lapa.pr.leg.br/norma/5999",
+   "versions": [
+    {
+     "from": "2026-07-03",
+     "units": 3,
+     "source_url": "https://sapl.lapa.pr.leg.br/media/sapl/public/normajuridica/2026/5999/4574_-_56_-_of._211-26_-_p.d._13636_social_esp_inc_ppa_4455-25_-_acao_construcao_do_cras_-_lei.pdf",
+     "sha256": "1720f56d9f551d6a9dc75a44eb3f23615b42eb911dd28dce2f58457a2633dbbe"
+    }
+   ]
+  },
+  {
+   "slug": "lapa/lei-2026-04573",
+   "unit": "lapa",
+   "short": "Lei 4573/2026",
+   "title": "Lei nº 4.573, de 2 de julho de 2026",
+   "url": "https://sapl.lapa.pr.leg.br/norma/5998",
+   "versions": [
+    {
+     "from": "2026-07-03",
+     "units": 6,
+     "source_url": "https://sapl.lapa.pr.leg.br/media/sapl/public/normajuridica/2026/5998/4573_-_55_-_of._210-26_-_pd_12009-2026_-_termo_de_colaboracao_-_200_mil_-_educandario_-_lei.pdf",
+     "sha256": "84a345244750ecc7c4680aec1dba8dafc168d1f19e0a140cce16832a83335fcf"
+    }
+   ]
+  },
+  {
+   "slug": "lapa/lc-2026-00071",
+   "unit": "lapa",
+   "short": "LC 71/2026",
+   "title": "Lei Complementar nº 71, de 2 de julho de 2026",
+   "url": "https://sapl.lapa.pr.leg.br/norma/6005",
+   "versions": [
+    {
+     "from": "2026-07-03",
+     "units": 4,
+     "source_url": "https://sapl.lapa.pr.leg.br/media/sapl/public/normajuridica/2026/6005/71_-_plc_02-26_-_camara_-_pd_12765-26_-_alt._3701-2020_-_codigo_de_posturas_-_plano_diretor_-_lc_1.pdf",
+     "sha256": "195a2334a79ff4ad1022d5936ad5d8b3e1cd48119df4e99d5938f096a0962142"
+    }
+   ]
+  },
+  {
+   "slug": "lapa/lc-2026-00070",
+   "unit": "lapa",
+   "short": "LC 70/2026",
+   "title": "Lei Complementar nº 70, de 2 de julho de 2026",
+   "url": "https://sapl.lapa.pr.leg.br/norma/6004",
+   "versions": [
+    {
+     "from": "2026-07-03",
+     "units": 5,
+     "source_url": "https://sapl.lapa.pr.leg.br/media/sapl/public/normajuridica/2026/6004/70_-_plc_01-26_-_camara_-_pd_12765-26_-_alt._3701-2020_-_codigo_de_posturas_-_plano_diretor_-_lc_1.pdf",
+     "sha256": "996b6f0c0779b7edb49c6b42bcf42be2b040e6682c13feb74881ea6e8309e441"
+    }
+   ]
+  },
+  {
+   "slug": "lapa/lei-2026-04568",
+   "unit": "lapa",
+   "short": "Lei 4568/2026",
+   "title": "Lei nº 4.568, de 10 de junho de 2026",
+   "url": "https://sapl.lapa.pr.leg.br/norma/5993",
+   "versions": [
+    {
+     "from": "2026-06-11",
+     "units": 3,
+     "source_url": "https://sapl.lapa.pr.leg.br/media/sapl/public/normajuridica/2026/5993/4568_-_52_-_of._194-26_-_p.d._9168_obras_fundo_saneam_basico_e_amb_fmsba_-_alt._4427-25_ldo.pdf",
+     "sha256": "84cf225a4dd50228b3e57a47c8a0ceeed8bdc4f6a3f52f601b81a34e2583bf7c"
+    }
+   ]
+  },
+  {
+   "slug": "lapa/lei-2026-04567",
+   "unit": "lapa",
+   "short": "Lei 4567/2026",
+   "title": "Lei nº 4.567, de 10 de junho de 2026",
+   "url": "https://sapl.lapa.pr.leg.br/norma/5992",
+   "versions": [
+    {
+     "from": "2026-06-11",
+     "units": 3,
+     "source_url": "https://sapl.lapa.pr.leg.br/media/sapl/public/normajuridica/2026/5992/4567_-_51_-_of._193-26_-_p.d._9168_obras_fundo_saneam_basico_e_amb_fmsba_-_alt._4455-25_-_ppa_-_lei.pdf",
+     "sha256": "e49351118e693f947f29d810eb69cecf854a8d9b7cb3be7331915d67c8c6fadc"
+    }
+   ]
+  },
+  {
+   "slug": "lapa/lei-2026-04564",
+   "unit": "lapa",
+   "short": "Lei 4564/2026",
+   "title": "Lei nº 4.564, de 22 de maio de 2026",
+   "url": "https://sapl.lapa.pr.leg.br/norma/5989",
+   "versions": [
+    {
+     "from": "2026-05-25",
+     "units": 6,
+     "source_url": "https://sapl.lapa.pr.leg.br/media/sapl/public/normajuridica/2026/5989/4564_-_49_-_of._182-26_-_pd_7767-2026_-_termo_de_fomento_-_desbravadores_-_lei.pdf",
+     "sha256": "03cf2b7eb6511e26f15fdcb385d5f704022fefb12c2a4b78be1d7f33d583846b"
+    }
+   ]
+  },
+  {
+   "slug": "lapa/lei-2026-04559",
+   "unit": "lapa",
+   "short": "Lei 4559/2026",
+   "title": "Lei nº 4.559, de 7 de maio de 2026",
+   "url": "https://sapl.lapa.pr.leg.br/norma/5984",
+   "versions": [
+    {
+     "from": "2026-05-08",
+     "units": 5,
+     "source_url": "https://sapl.lapa.pr.leg.br/media/sapl/public/normajuridica/2026/5984/4559_-_43_-_of._141-26_-_pd_15474-2025_-_alt._4428-2025_-_termo_de_fomento_-_lei.pdf",
+     "sha256": "ecc56b44a2a7c3af0d9968e6cb017857598f1549775dc44afd4b5e8b777d4258"
     }
    ]
   },

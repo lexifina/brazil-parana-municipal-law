@@ -28,6 +28,30 @@
    "code": "BR-PR-IRATI",
    "official_code": "4110706",
    "source": "sapl.irati.pr.leg.br"
+  },
+  {
+   "id": "cambe",
+   "folder": "cambe",
+   "name": "Cambé",
+   "code": "BR-PR-CAMBE",
+   "official_code": "4103701",
+   "source": "sapl.cambe.pr.leg.br"
+  },
+  {
+   "id": "campo-largo",
+   "folder": "campo-largo",
+   "name": "Campo Largo",
+   "code": "BR-PR-CAMPO-LARGO",
+   "official_code": "4104204",
+   "source": "sapl.campolargo.pr.leg.br"
+  },
+  {
+   "id": "lapa",
+   "folder": "lapa",
+   "name": "Lapa",
+   "code": "BR-PR-LAPA",
+   "official_code": "4113205",
+   "source": "sapl.lapa.pr.leg.br"
   }
  ]
 }
