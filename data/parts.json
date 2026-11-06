@@ -1,0 +1,78 @@
+{
+ "parts": {
+  "castro--30-leis-001.json": {
+   "acts": [
+    "castro/lei-2026-04340",
+    "castro/lei-2026-04343",
+    "castro/lei-2026-04347",
+    "castro/lei-2026-04348",
+    "castro/lei-2026-04354",
+    "castro/lei-2026-04355",
+    "castro/lei-2026-04356",
+    "castro/lei-2026-04361",
+    "castro/lei-2026-04363",
+    "castro/lei-2026-04366",
+    "castro/lei-2026-04367",
+    "castro/lei-2026-04369",
+    "castro/lei-2026-04370",
+    "castro/lei-2026-04372",
+    "castro/lei-2026-04373",
+    "castro/lei-2026-04374",
+    "castro/lei-2026-04375",
+    "castro/lei-2026-04376",
+    "castro/lei-2026-04377",
+    "castro/lei-2026-04378",
+    "castro/lei-2026-04379",
+    "castro/lei-2026-04380",
+    "castro/lei-2026-04381",
+    "castro/lei-2026-04385",
+    "castro/lei-2026-04387"
+   ],
+   "sha256": "610dbec6d9f62228e044592f6b77d1b214c9cc2364fb8d31ad19a3dbfda248a9"
+  },
+  "irati--30-leis-001.json": {
+   "acts": [
+    "irati/lei-2026-05375",
+    "irati/lei-2026-05384",
+    "irati/lei-2026-05385",
+    "irati/lei-2026-05386",
+    "irati/lei-2026-05387",
+    "irati/lei-2026-05388",
+    "irati/lei-2026-05389",
+    "irati/lei-2026-05390",
+    "irati/lei-2026-05391",
+    "irati/lei-2026-05392",
+    "irati/lei-2026-05393",
+    "irati/lei-2026-05394"
+   ],
+   "sha256": "58408ae5c87fd089f17b2884a2c64e1c3dac9045f172ca30ae2473f58f393885"
+  },
+  "piraquara--30-leis-001.json": {
+   "acts": [
+    "piraquara/lei-2025-02636",
+    "piraquara/lei-2026-02644",
+    "piraquara/lei-2026-02645",
+    "piraquara/lei-2026-02647",
+    "piraquara/lei-2026-02648",
+    "piraquara/lei-2026-02649",
+    "piraquara/lei-2026-02651",
+    "piraquara/lei-2026-02652",
+    "piraquara/lei-2026-02653",
+    "piraquara/lei-2026-02655",
+    "piraquara/lei-2026-02657",
+    "piraquara/lei-2026-02658",
+    "piraquara/lei-2026-02660",
+    "piraquara/lei-2026-02662",
+    "piraquara/lei-2026-02663",
+    "piraquara/lei-2026-02664",
+    "piraquara/lei-2026-02666",
+    "piraquara/lei-2026-02668",
+    "piraquara/lei-2026-02670",
+    "piraquara/lei-2026-02672",
+    "piraquara/lei-2026-02678"
+   ],
+   "sha256": "b668ebf51ba58b5c122987830cd0c8415ce9d178284010692792504a01249063"
+  }
+ },
+ "schema": 1
+}

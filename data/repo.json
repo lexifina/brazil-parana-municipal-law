@@ -1,0 +1,33 @@
+{
+ "country": "BR-PR-MUNICIPAL",
+ "name": "Paraná: municipal chambers",
+ "tz": "America/Sao_Paulo",
+ "future_branch": "futuro",
+ "publisher": "Câmaras Municipais de Paraná (SAPL)",
+ "units": [
+  {
+   "id": "piraquara",
+   "folder": "piraquara",
+   "name": "Piraquara",
+   "code": "BR-PR-PIRAQUARA",
+   "official_code": "4119509",
+   "source": "sapl.piraquara.pr.leg.br"
+  },
+  {
+   "id": "castro",
+   "folder": "castro",
+   "name": "Castro",
+   "code": "BR-PR-CASTRO",
+   "official_code": "4104907",
+   "source": "sapl.castro.pr.leg.br"
+  },
+  {
+   "id": "irati",
+   "folder": "irati",
+   "name": "Irati",
+   "code": "BR-PR-IRATI",
+   "official_code": "4110706",
+   "source": "sapl.irati.pr.leg.br"
+  }
+ ]
+}

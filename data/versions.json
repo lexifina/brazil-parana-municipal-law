@@ -1,0 +1,875 @@
+{
+ "country": "BR-PR-MUNICIPAL",
+ "acts": [
+  {
+   "slug": "castro/lei-2026-04387",
+   "unit": "castro",
+   "short": "Lei 4387/2026",
+   "title": "Lei nº 4.387, de 25 de setembro de 2026",
+   "url": "https://sapl.castro.pr.leg.br/norma/4595",
+   "versions": [
+    {
+     "from": "2026-09-28",
+     "units": 3,
+     "source_url": "https://sapl.castro.pr.leg.br/media/sapl/public/normajuridica/2026/4595/lei_ordinaria-4387-2026.pdf",
+     "sha256": "ce27db9cb6b637bb47baab8ab41c1a954fc862fe3c396f42f92f4e6c6c172536"
+    }
+   ]
+  },
+  {
+   "slug": "castro/lei-2026-04385",
+   "unit": "castro",
+   "short": "Lei 4385/2026",
+   "title": "Lei nº 4.385, de 23 de setembro de 2026",
+   "url": "https://sapl.castro.pr.leg.br/norma/4592",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 17,
+     "source_url": "https://sapl.castro.pr.leg.br/media/sapl/public/normajuridica/2026/4592/lei_ordinaria-4385-2026.pdf",
+     "sha256": "f8a59fb5ced5bba61fd79f639d0e076921dceed77f3df850431e0e47ea721da5"
+    }
+   ]
+  },
+  {
+   "slug": "castro/lei-2026-04381",
+   "unit": "castro",
+   "short": "Lei 4381/2026",
+   "title": "Lei nº 4.381, de 18 de setembro de 2026",
+   "url": "https://sapl.castro.pr.leg.br/norma/4588",
+   "versions": [
+    {
+     "from": "2026-09-23",
+     "units": 4,
+     "source_url": "https://sapl.castro.pr.leg.br/media/sapl/public/normajuridica/2026/4588/lei_ordinaria-4381-2026.pdf",
+     "sha256": "8ab938344835adcb177b1235f4ff4278b8296bd8a5debdbcf42cd6f2716730cc"
+    }
+   ]
+  },
+  {
+   "slug": "castro/lei-2026-04380",
+   "unit": "castro",
+   "short": "Lei 4380/2026",
+   "title": "Lei nº 4.380, de 18 de setembro de 2026",
+   "url": "https://sapl.castro.pr.leg.br/norma/4587",
+   "versions": [
+    {
+     "from": "2026-09-23",
+     "units": 4,
+     "source_url": "https://sapl.castro.pr.leg.br/media/sapl/public/normajuridica/2026/4587/lei_ordinaria-4380-2026.pdf",
+     "sha256": "0544f28dfc3543515ca15fd02d0bd755fdf3ade0c858e9ad6cd6e48df8229455"
+    }
+   ]
+  },
+  {
+   "slug": "castro/lei-2026-04379",
+   "unit": "castro",
+   "short": "Lei 4379/2026",
+   "title": "Lei nº 4.379, de 18 de setembro de 2026",
+   "url": "https://sapl.castro.pr.leg.br/norma/4586",
+   "versions": [
+    {
+     "from": "2026-09-23",
+     "units": 4,
+     "source_url": "https://sapl.castro.pr.leg.br/media/sapl/public/normajuridica/2026/4586/lei_ordinaria-4379-2026.pdf",
+     "sha256": "2c7049c70249af6090010ec818d3c0988f29c495e269209ada95bfdff6d85ba7"
+    }
+   ]
+  },
+  {
+   "slug": "castro/lei-2026-04378",
+   "unit": "castro",
+   "short": "Lei 4378/2026",
+   "title": "Lei nº 4.378, de 18 de setembro de 2026",
+   "url": "https://sapl.castro.pr.leg.br/norma/4585",
+   "versions": [
+    {
+     "from": "2026-09-23",
+     "units": 4,
+     "source_url": "https://sapl.castro.pr.leg.br/media/sapl/public/normajuridica/2026/4585/lei_ordinaria-4378-2026.pdf",
+     "sha256": "a0a98ceddfffd73e132c826127e07663f024d529743c97eb29c791d7e1684b6d"
+    }
+   ]
+  },
+  {
+   "slug": "castro/lei-2026-04377",
+   "unit": "castro",
+   "short": "Lei 4377/2026",
+   "title": "Lei nº 4.377, de 18 de setembro de 2026",
+   "url": "https://sapl.castro.pr.leg.br/norma/4584",
+   "versions": [
+    {
+     "from": "2026-09-23",
+     "units": 4,
+     "source_url": "https://sapl.castro.pr.leg.br/media/sapl/public/normajuridica/2026/4584/lei_ordinaria-4377-2026.pdf",
+     "sha256": "cb4970f42abf6bc59fd046890d87f23f28f7007c69b828b10b45027b9aab6878"
+    }
+   ]
+  },
+  {
+   "slug": "castro/lei-2026-04376",
+   "unit": "castro",
+   "short": "Lei 4376/2026",
+   "title": "Lei nº 4.376, de 18 de setembro de 2026",
+   "url": "https://sapl.castro.pr.leg.br/norma/4583",
+   "versions": [
+    {
+     "from": "2026-09-23",
+     "units": 4,
+     "source_url": "https://sapl.castro.pr.leg.br/media/sapl/public/normajuridica/2026/4583/lei_ordinaria-4376-2026.pdf",
+     "sha256": "539b6066046e6b7f511de57b1f2571fb9e4dccbcd3b6c701263304bedd1a81e4"
+    }
+   ]
+  },
+  {
+   "slug": "castro/lei-2026-04375",
+   "unit": "castro",
+   "short": "Lei 4375/2026",
+   "title": "Lei nº 4.375, de 18 de setembro de 2026",
+   "url": "https://sapl.castro.pr.leg.br/norma/4582",
+   "versions": [
+    {
+     "from": "2026-09-23",
+     "units": 4,
+     "source_url": "https://sapl.castro.pr.leg.br/media/sapl/public/normajuridica/2026/4582/lei_ordinaria-4375-2026.pdf",
+     "sha256": "c46909e84faa9ce2b22f33f207e40920be7f5a3678c08a6fed45ed06a80e23b2"
+    }
+   ]
+  },
+  {
+   "slug": "castro/lei-2026-04374",
+   "unit": "castro",
+   "short": "Lei 4374/2026",
+   "title": "Lei nº 4.374, de 15 de setembro de 2026",
+   "url": "https://sapl.castro.pr.leg.br/norma/4581",
+   "versions": [
+    {
+     "from": "2026-09-15",
+     "units": 3,
+     "source_url": "https://sapl.castro.pr.leg.br/media/sapl/public/normajuridica/2026/4581/lei_ordinaria-4374-2026.pdf",
+     "sha256": "3fc282031c204eebe905f47fecef0672d5e2d9feee2c943461fef5a6f4498c22"
+    }
+   ]
+  },
+  {
+   "slug": "castro/lei-2026-04373",
+   "unit": "castro",
+   "short": "Lei 4373/2026",
+   "title": "Lei nº 4.373, de 10 de setembro de 2026",
+   "url": "https://sapl.castro.pr.leg.br/norma/4580",
+   "versions": [
+    {
+     "from": "2026-09-11",
+     "units": 9,
+     "source_url": "https://sapl.castro.pr.leg.br/media/sapl/public/normajuridica/2026/4580/lei_ordinaria-4373-2026.pdf",
+     "sha256": "eff9c035e1f337f6eab3ada9acdac8f35049f9f8898f1acba1d3fe95b929a981"
+    }
+   ]
+  },
+  {
+   "slug": "castro/lei-2026-04372",
+   "unit": "castro",
+   "short": "Lei 4372/2026",
+   "title": "Lei nº 4.372, de 10 de setembro de 2026",
+   "url": "https://sapl.castro.pr.leg.br/norma/4579",
+   "versions": [
+    {
+     "from": "2026-09-11",
+     "units": 5,
+     "source_url": "https://sapl.castro.pr.leg.br/media/sapl/public/normajuridica/2026/4579/lei_ordinaria-4372-2026.pdf",
+     "sha256": "25bcd15b6bc99dab0229dadc0688250cdf3d3b78e2e4fe5581136a0de76f716e"
+    }
+   ]
+  },
+  {
+   "slug": "castro/lei-2026-04370",
+   "unit": "castro",
+   "short": "Lei 4370/2026",
+   "title": "Lei nº 4.370, de 1 de setembro de 2026",
+   "url": "https://sapl.castro.pr.leg.br/norma/4565",
+   "versions": [
+    {
+     "from": "2026-09-07",
+     "units": 26,
+     "source_url": "https://sapl.castro.pr.leg.br/media/sapl/public/normajuridica/2026/4565/lei_n_4370-2026_-_lei_do_cmdpcd_-_alteracoes.pdf",
+     "sha256": "a79c636816670df31ac99bc292f2a9a94c2fb879932121e0654666970021debe"
+    }
+   ]
+  },
+  {
+   "slug": "castro/lei-2026-04369",
+   "unit": "castro",
+   "short": "Lei 4369/2026",
+   "title": "Lei nº 4.369, de 1 de setembro de 2026",
+   "url": "https://sapl.castro.pr.leg.br/norma/4564",
+   "versions": [
+    {
+     "from": "2026-09-01",
+     "units": 3,
+     "source_url": "https://sapl.castro.pr.leg.br/media/sapl/public/normajuridica/2026/4564/lei_no_4369-2026_-_retifica_area_do_basilio_chrum.pdf",
+     "sha256": "e609c52652c018e9b02a1b1d0d84c179e16861aa506938cf50ef9e483e3b2751"
+    }
+   ]
+  },
+  {
+   "slug": "castro/lei-2026-04367",
+   "unit": "castro",
+   "short": "Lei 4367/2026",
+   "title": "Lei nº 4.367, de 24 de agosto de 2026",
+   "url": "https://sapl.castro.pr.leg.br/norma/4576",
+   "versions": [
+    {
+     "from": "2026-08-25",
+     "units": 8,
+     "source_url": "https://sapl.castro.pr.leg.br/media/sapl/public/normajuridica/2026/4576/lei_ordinaria-4367-2026.pdf",
+     "sha256": "b4114fd56b5c6f6d38159e9ab1813bd193084cd3eef04d89a4aede4940538446"
+    }
+   ]
+  },
+  {
+   "slug": "castro/lei-2026-04366",
+   "unit": "castro",
+   "short": "Lei 4366/2026",
+   "title": "Lei nº 4.366, de 24 de agosto de 2026",
+   "url": "https://sapl.castro.pr.leg.br/norma/4575",
+   "versions": [
+    {
+     "from": "2026-08-25",
+     "units": 8,
+     "source_url": "https://sapl.castro.pr.leg.br/media/sapl/public/normajuridica/2026/4575/lei_ordinaria-4366-2026.pdf",
+     "sha256": "5646afa39566948b25c0370481ad67ef5f779f21362f693b7508029661a336ed"
+    }
+   ]
+  },
+  {
+   "slug": "castro/lei-2026-04363",
+   "unit": "castro",
+   "short": "Lei 4363/2026",
+   "title": "Lei nº 4.363, de 19 de agosto de 2026",
+   "url": "https://sapl.castro.pr.leg.br/norma/4572",
+   "versions": [
+    {
+     "from": "2026-08-21",
+     "units": 3,
+     "source_url": "https://sapl.castro.pr.leg.br/media/sapl/public/normajuridica/2026/4572/lei_ordinaria-4363-2026.pdf",
+     "sha256": "cce8be4d94408cacec17590baa7ea4bf39bdbd74330a95667ce1b2cf7e17f4c3"
+    }
+   ]
+  },
+  {
+   "slug": "castro/lei-2026-04361",
+   "unit": "castro",
+   "short": "Lei 4361/2026",
+   "title": "Lei nº 4.361, de 4 de agosto de 2026",
+   "url": "https://sapl.castro.pr.leg.br/norma/4570",
+   "versions": [
+    {
+     "from": "2026-08-04",
+     "units": 3,
+     "source_url": "https://sapl.castro.pr.leg.br/media/sapl/public/normajuridica/2026/4570/lei_ordinaria-4361-2026.pdf",
+     "sha256": "e484d489a8c8eb8aa201013d1500e1a537e2c8eb9d7f03d17a567fc24d41f065"
+    }
+   ]
+  },
+  {
+   "slug": "castro/lei-2026-04356",
+   "unit": "castro",
+   "short": "Lei 4356/2026",
+   "title": "Lei nº 4.356, de 9 de julho de 2026",
+   "url": "https://sapl.castro.pr.leg.br/norma/4547",
+   "versions": [
+    {
+     "from": "2026-07-11",
+     "units": 4,
+     "source_url": "https://sapl.castro.pr.leg.br/media/sapl/public/normajuridica/2026/4547/lei_ordinaria-4356-2026.pdf",
+     "sha256": "1c121c5938457fefcc50d0e3b3e9c9e17918e62f4434445a29c846c3a6769ea9"
+    }
+   ]
+  },
+  {
+   "slug": "castro/lei-2026-04355",
+   "unit": "castro",
+   "short": "Lei 4355/2026",
+   "title": "Lei nº 4.355, de 9 de julho de 2026",
+   "url": "https://sapl.castro.pr.leg.br/norma/4569",
+   "versions": [
+    {
+     "from": "2026-07-23",
+     "units": 4,
+     "source_url": "https://sapl.castro.pr.leg.br/media/sapl/public/normajuridica/2026/4569/lei_ordinaria-4355-2026.pdf",
+     "sha256": "f01339f74a57390789272d8040c8eafdb826ef246e717bc8f4147d77f0056a7c"
+    }
+   ]
+  },
+  {
+   "slug": "castro/lei-2026-04354",
+   "unit": "castro",
+   "short": "Lei 4354/2026",
+   "title": "Lei nº 4.354, de 9 de julho de 2026",
+   "url": "https://sapl.castro.pr.leg.br/norma/4563",
+   "versions": [
+    {
+     "from": "2026-07-11",
+     "units": 87,
+     "source_url": "https://sapl.castro.pr.leg.br/media/sapl/public/normajuridica/2026/4563/lei_ordinaria-4354-2026.pdf",
+     "sha256": "2f4319b91581828a388095191b9e9eddc0cafc350125ee561e942ba0d5135536"
+    }
+   ]
+  },
+  {
+   "slug": "castro/lei-2026-04348",
+   "unit": "castro",
+   "short": "Lei 4348/2026",
+   "title": "Lei nº 4.348, de 8 de julho de 2026",
+   "url": "https://sapl.castro.pr.leg.br/norma/4539",
+   "versions": [
+    {
+     "from": "2026-07-08",
+     "units": 7,
+     "source_url": "https://sapl.castro.pr.leg.br/media/sapl/public/normajuridica/2026/4539/lei_ordinaria-4348-2026.pdf",
+     "sha256": "a39d2a0364be9099acc226bd0ed9bd405e5c0110896d23ec7fb37f16e25d8da5"
+    }
+   ]
+  },
+  {
+   "slug": "castro/lei-2026-04347",
+   "unit": "castro",
+   "short": "Lei 4347/2026",
+   "title": "Lei nº 4.347, de 8 de julho de 2026",
+   "url": "https://sapl.castro.pr.leg.br/norma/4538",
+   "versions": [
+    {
+     "from": "2026-07-08",
+     "units": 13,
+     "source_url": "https://sapl.castro.pr.leg.br/media/sapl/public/normajuridica/2026/4538/lei_ordinaria-4347-2026.pdf",
+     "sha256": "e277305d867c79515225e091d79412303c90e943c127d81e0051c85b9a73705c"
+    }
+   ]
+  },
+  {
+   "slug": "castro/lei-2026-04343",
+   "unit": "castro",
+   "short": "Lei 4343/2026",
+   "title": "Lei nº 4.343, de 10 de junho de 2026",
+   "url": "https://sapl.castro.pr.leg.br/norma/4527",
+   "versions": [
+    {
+     "from": "2026-06-11",
+     "units": 6,
+     "source_url": "https://sapl.castro.pr.leg.br/media/sapl/public/normajuridica/2026/4527/lei_ordinaria-4343-2026.pdf",
+     "sha256": "ba72da7ad6b735272a6112c53aef783bada0e41e37c9128fea2e1bbeaf1b7c44"
+    }
+   ]
+  },
+  {
+   "slug": "castro/lei-2026-04340",
+   "unit": "castro",
+   "short": "Lei 4340/2026",
+   "title": "Lei nº 4.340, de 10 de junho de 2026",
+   "url": "https://sapl.castro.pr.leg.br/norma/4524",
+   "versions": [
+    {
+     "from": "2026-06-11",
+     "units": 4,
+     "source_url": "https://sapl.castro.pr.leg.br/media/sapl/public/normajuridica/2026/4524/lei_ordinaria-4340-2026.pdf",
+     "sha256": "459ffe21878061897f7d663450cf12056213a5ff6d0b1673a20131586d53ba1a"
+    }
+   ]
+  },
+  {
+   "slug": "irati/lei-2026-05394",
+   "unit": "irati",
+   "short": "Lei 5394/2026",
+   "title": "Lei nº 5.394, de 4 de novembro de 2026",
+   "url": "https://sapl.irati.pr.leg.br/norma/5157",
+   "versions": [
+    {
+     "from": "2026-11-05",
+     "units": 14,
+     "source_url": "https://sapl.irati.pr.leg.br/media/sapl/public/normajuridica/2026/5157/lei_5.394_-_premiacao_irarock_2026.pdf",
+     "sha256": "a839e96d56f7b7292d76e085b5ddb7889e031db78282fbaf85552148bf840cf6"
+    }
+   ]
+  },
+  {
+   "slug": "irati/lei-2026-05393",
+   "unit": "irati",
+   "short": "Lei 5393/2026",
+   "title": "Lei nº 5.393, de 28 de outubro de 2026",
+   "url": "https://sapl.irati.pr.leg.br/norma/5154",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 4,
+     "source_url": "https://sapl.irati.pr.leg.br/media/sapl/public/normajuridica/2026/5154/lei_5.393_-_cidadao_honorario_oswald_linsky.pdf",
+     "sha256": "cb49c8e9d606867ada11919c03dad42914573c86df7d184ecae1fc586e3bf6ac"
+    }
+   ]
+  },
+  {
+   "slug": "irati/lei-2026-05392",
+   "unit": "irati",
+   "short": "Lei 5392/2026",
+   "title": "Lei nº 5.392, de 28 de outubro de 2026",
+   "url": "https://sapl.irati.pr.leg.br/norma/5153",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 4,
+     "source_url": "https://sapl.irati.pr.leg.br/media/sapl/public/normajuridica/2026/5153/lei_5.392_-_cidada_honoraria_rosa_eva_maria_linsky.pdf",
+     "sha256": "4b917262cac539cad0cf3cd59b4e4549f2d1fe6575561fa01e623b430ba67fc4"
+    }
+   ]
+  },
+  {
+   "slug": "irati/lei-2026-05391",
+   "unit": "irati",
+   "short": "Lei 5391/2026",
+   "title": "Lei nº 5.391, de 21 de outubro de 2026",
+   "url": "https://sapl.irati.pr.leg.br/norma/5152",
+   "versions": [
+    {
+     "from": "2026-10-22",
+     "units": 20,
+     "source_url": "https://sapl.irati.pr.leg.br/media/sapl/public/normajuridica/2026/5152/lei_no_5.391_de_21_de_outubro_de_2026__institui_o_programa_municipal_irati_conecta_e_disciplina_a_adocao_digital_de_espacos_publicos_para_disponibilizacao_gratuita_de_acesso_a_internet_sem_fio.pdf",
+     "sha256": "468da548140e6e798abdfb532ff1e5b6b8213167cf28c14d86a1507946b58515"
+    }
+   ]
+  },
+  {
+   "slug": "irati/lei-2026-05390",
+   "unit": "irati",
+   "short": "Lei 5390/2026",
+   "title": "Lei nº 5.390, de 14 de outubro de 2026",
+   "url": "https://sapl.irati.pr.leg.br/norma/5151",
+   "versions": [
+    {
+     "from": "2026-10-15",
+     "units": 7,
+     "source_url": "https://sapl.irati.pr.leg.br/media/sapl/public/normajuridica/2026/5151/lei_n_5.390-2026_-_altera_dispositivos_da_lei_municipal_no_5.136_de_27_de_junho_de_2024_que_institui_o_programa_de_guarda_subsidiada_provisoria_no_municipio_de_irati.pdf",
+     "sha256": "920a284a6defcc45b2a3a758e6b4d84084aa0a76ec655fb31060cd499ad1b63f"
+    }
+   ]
+  },
+  {
+   "slug": "irati/lei-2026-05389",
+   "unit": "irati",
+   "short": "Lei 5389/2026",
+   "title": "Lei nº 5.389, de 14 de outubro de 2026",
+   "url": "https://sapl.irati.pr.leg.br/norma/5150",
+   "versions": [
+    {
+     "from": "2026-10-15",
+     "units": 16,
+     "source_url": "https://sapl.irati.pr.leg.br/media/sapl/public/normajuridica/2026/5150/lei_no_5.389_de_14_de_outubro_de_2026__institui_o_govlab_irati_-_programa_municipal_de_sandbox_regulatorio_e_inovacao_publica.pdf",
+     "sha256": "070229b38bdc0416d3fcbd4aca37942397c6204183317716720b23328d98927d"
+    }
+   ]
+  },
+  {
+   "slug": "irati/lei-2026-05388",
+   "unit": "irati",
+   "short": "Lei 5388/2026",
+   "title": "Lei nº 5.388, de 14 de outubro de 2026",
+   "url": "https://sapl.irati.pr.leg.br/norma/5149",
+   "versions": [
+    {
+     "from": "2026-10-15",
+     "units": 7,
+     "source_url": "https://sapl.irati.pr.leg.br/media/sapl/public/normajuridica/2026/5149/lei_no_5.388_de_14_de_outubro_de_2026__dispoe_sobre_a_reversao_ao_patrimonio_publico_municipal_de_imovel_urbano_objeto_da_matricula_no_13.266_do_2o_servico_de_registro_de_imoveis_de_irati.pdf",
+     "sha256": "b78aff0bb8741e498df7fbfafef2ccc1dbb2973d8ccb23e9415a48906ca62042"
+    }
+   ]
+  },
+  {
+   "slug": "irati/lei-2026-05387",
+   "unit": "irati",
+   "short": "Lei 5387/2026",
+   "title": "Lei nº 5.387, de 7 de outubro de 2026",
+   "url": "https://sapl.irati.pr.leg.br/norma/5147",
+   "versions": [
+    {
+     "from": "2026-10-08",
+     "units": 11,
+     "source_url": "https://sapl.irati.pr.leg.br/media/sapl/public/normajuridica/2026/5147/lei_n_5.387-2026_-_institui_a_politica_municipal_de_protecao_dos_direitos_da_pessoa_com_fibromialgia_no_municipio_de_irati_cria_a_carteira_municipal_de_identificacao_da_pessoa_com_fibromialgia.pdf",
+     "sha256": "64d9d36b8d0219deb2fa4e4d5177ef5656f124695e2419d954aceef8cf3edbaf"
+    }
+   ]
+  },
+  {
+   "slug": "irati/lei-2026-05386",
+   "unit": "irati",
+   "short": "Lei 5386/2026",
+   "title": "Lei nº 5.386, de 2 de outubro de 2026",
+   "url": "https://sapl.irati.pr.leg.br/norma/5145",
+   "versions": [
+    {
+     "from": "2026-10-05",
+     "units": 7,
+     "source_url": "https://sapl.irati.pr.leg.br/media/sapl/public/normajuridica/2026/5145/lei_no_5.386_de_02_de_outubro_de_2026__altera_dispositivos_da_lei_municipal_no_4.513_de_13_de_junho_de_2018_que_dispoe_sobre.pdf",
+     "sha256": "3e4ad3f5866ea346c462597d72963f207307e8a24c9eab55866b69e4cbd0f5b7"
+    }
+   ]
+  },
+  {
+   "slug": "irati/lei-2026-05385",
+   "unit": "irati",
+   "short": "Lei 5385/2026",
+   "title": "Lei nº 5.385, de 30 de setembro de 2026",
+   "url": "https://sapl.irati.pr.leg.br/norma/5144",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 13,
+     "source_url": "https://sapl.irati.pr.leg.br/media/sapl/public/normajuridica/2026/5144/lei_n_5.385-2026_-_institui_o_campeonato_iratiense_de_laco_comprido.pdf",
+     "sha256": "840a418458be498c2a32530cf56668a86777c84b0335e26013ad48ac330b46c8"
+    }
+   ]
+  },
+  {
+   "slug": "irati/lei-2026-05384",
+   "unit": "irati",
+   "short": "Lei 5384/2026",
+   "title": "Lei nº 5.384, de 30 de setembro de 2026",
+   "url": "https://sapl.irati.pr.leg.br/norma/5143",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 5,
+     "source_url": "https://sapl.irati.pr.leg.br/media/sapl/public/normajuridica/2026/5143/lei_n_5.384-2026_-_repasse_associacao_santos_inocentes.pdf",
+     "sha256": "77f208baa3c3a3e871f0993d17113bee2b3911014c4f78de700954d553597ee3"
+    }
+   ]
+  },
+  {
+   "slug": "irati/lei-2026-05375",
+   "unit": "irati",
+   "short": "Lei 5375/2026",
+   "title": "Lei nº 5.375, de 19 de agosto de 2026",
+   "url": "https://sapl.irati.pr.leg.br/norma/5134",
+   "versions": [
+    {
+     "from": "2026-08-20",
+     "units": 7,
+     "source_url": "https://sapl.irati.pr.leg.br/media/sapl/public/normajuridica/2026/5134/lei_no_5.375_de_19_de_agosto_de_2026_-_reversao_da_concessao_aspana.pdf",
+     "sha256": "bc998b83bf2d8a62bb9ab6c83c9bb3d77b37d5b7ce3e934ec8128503107e49bb"
+    }
+   ]
+  },
+  {
+   "slug": "piraquara/lei-2026-02678",
+   "unit": "piraquara",
+   "short": "Lei 2678/2026",
+   "title": "Lei nº 2.678, de 21 de maio de 2026",
+   "url": "https://sapl.piraquara.pr.leg.br/norma/3106",
+   "versions": [
+    {
+     "from": "2026-05-25",
+     "units": 5,
+     "source_url": "https://sapl.piraquara.pr.leg.br/media/sapl/public/normajuridica/2026/3106/lei_2678-21.05.2026.pdf",
+     "sha256": "343b64545f552c24252d257de6189198e6746434144dd21cf8f6fb78bc7a00c9"
+    }
+   ]
+  },
+  {
+   "slug": "piraquara/lei-2026-02672",
+   "unit": "piraquara",
+   "short": "Lei 2672/2026",
+   "title": "Lei nº 2.672, de 14 de maio de 2026",
+   "url": "https://sapl.piraquara.pr.leg.br/norma/3207",
+   "versions": [
+    {
+     "from": "2026-05-18",
+     "units": 18,
+     "source_url": "https://sapl.piraquara.pr.leg.br/media/sapl/public/normajuridica/2026/3207/lei_2672-14.05.2026.pdf",
+     "sha256": "227170561e11fd9ccbb157937fe1e0a233085f6f8f9b36d03377ea73e6f8aef8"
+    }
+   ]
+  },
+  {
+   "slug": "piraquara/lei-2026-02670",
+   "unit": "piraquara",
+   "short": "Lei 2670/2026",
+   "title": "Lei nº 2.670, de 12 de maio de 2026",
+   "url": "https://sapl.piraquara.pr.leg.br/norma/3202",
+   "versions": [
+    {
+     "from": "2026-05-13",
+     "units": 7,
+     "source_url": "https://sapl.piraquara.pr.leg.br/media/sapl/public/normajuridica/2026/3202/lei_2670-13.05.2026.pdf",
+     "sha256": "1a9e9aebb3f55939bdf241e20cffb42264c104a88b23899e4068a3bcb57f5a8a"
+    }
+   ]
+  },
+  {
+   "slug": "piraquara/lei-2026-02668",
+   "unit": "piraquara",
+   "short": "Lei 2668/2026",
+   "title": "Lei nº 2.668, de 12 de maio de 2026",
+   "url": "https://sapl.piraquara.pr.leg.br/norma/3204",
+   "versions": [
+    {
+     "from": "2026-05-13",
+     "units": 12,
+     "source_url": "https://sapl.piraquara.pr.leg.br/media/sapl/public/normajuridica/2026/3204/lei_2668-13.05.2026.pdf",
+     "sha256": "b4c01814a597ff803adc5f03ed25a17b0cce8921e598153c042c36d130a8d8fb"
+    }
+   ]
+  },
+  {
+   "slug": "piraquara/lei-2026-02666",
+   "unit": "piraquara",
+   "short": "Lei 2666/2026",
+   "title": "Lei nº 2.666, de 12 de maio de 2026",
+   "url": "https://sapl.piraquara.pr.leg.br/norma/3201",
+   "versions": [
+    {
+     "from": "2026-05-13",
+     "units": 3,
+     "source_url": "https://sapl.piraquara.pr.leg.br/media/sapl/public/normajuridica/2026/3201/lei_2666-13.05.2026.pdf",
+     "sha256": "92ff7520c76dafe7d0e425b8c33422d58dd29c05b3d936eff4b4e92bd90c15d1"
+    }
+   ]
+  },
+  {
+   "slug": "piraquara/lei-2026-02664",
+   "unit": "piraquara",
+   "short": "Lei 2664/2026",
+   "title": "Lei nº 2.664, de 11 de maio de 2026",
+   "url": "https://sapl.piraquara.pr.leg.br/norma/3198",
+   "versions": [
+    {
+     "from": "2026-05-12",
+     "units": 3,
+     "source_url": "https://sapl.piraquara.pr.leg.br/media/sapl/public/normajuridica/2026/3198/lei_2664-12.05.2026.pdf",
+     "sha256": "cf117031a93e4628439f6a85502715c478f2a096d5d0aa34ad7cbc7fd626b58f"
+    }
+   ]
+  },
+  {
+   "slug": "piraquara/lei-2026-02663",
+   "unit": "piraquara",
+   "short": "Lei 2663/2026",
+   "title": "Lei nº 2.663, de 8 de maio de 2026",
+   "url": "https://sapl.piraquara.pr.leg.br/norma/3100",
+   "versions": [
+    {
+     "from": "2026-05-11",
+     "units": 7,
+     "source_url": "https://sapl.piraquara.pr.leg.br/media/sapl/public/normajuridica/2026/3100/lei_2663-11.05.2026.pdf",
+     "sha256": "70cc6f1cac758d1f26899b65d442b1181a5de17ad481ad22949b15265cc46311"
+    }
+   ]
+  },
+  {
+   "slug": "piraquara/lei-2026-02662",
+   "unit": "piraquara",
+   "short": "Lei 2662/2026",
+   "title": "Lei nº 2.662, de 8 de maio de 2026",
+   "url": "https://sapl.piraquara.pr.leg.br/norma/3101",
+   "versions": [
+    {
+     "from": "2026-05-11",
+     "units": 3,
+     "source_url": "https://sapl.piraquara.pr.leg.br/media/sapl/public/normajuridica/2026/3101/lei_2662-11.05.2026.pdf",
+     "sha256": "28e09722fa5e8e545219642c16f5cda5b8c4879782973365dd8e5150ef646c11"
+    }
+   ]
+  },
+  {
+   "slug": "piraquara/lei-2026-02660",
+   "unit": "piraquara",
+   "short": "Lei 2660/2026",
+   "title": "Lei nº 2.660, de 30 de abril de 2026",
+   "url": "https://sapl.piraquara.pr.leg.br/norma/3098",
+   "versions": [
+    {
+     "from": "2026-05-04",
+     "units": 3,
+     "source_url": "https://sapl.piraquara.pr.leg.br/media/sapl/public/normajuridica/2026/3098/lei_2660-04.05.2026.pdf",
+     "sha256": "521ff951ecd643dfa37f4ae49044023d80bbccc1114f53c41d2d07fe52e17b4e"
+    }
+   ]
+  },
+  {
+   "slug": "piraquara/lei-2026-02658",
+   "unit": "piraquara",
+   "short": "Lei 2658/2026",
+   "title": "Lei nº 2.658, de 22 de abril de 2026",
+   "url": "https://sapl.piraquara.pr.leg.br/norma/3091",
+   "versions": [
+    {
+     "from": "2026-04-24",
+     "units": 7,
+     "source_url": "https://sapl.piraquara.pr.leg.br/media/sapl/public/normajuridica/2026/3091/lei_2658-24.04.2026.pdf",
+     "sha256": "bc9049b5be99b28e575d489bf959400e92a1bb3587f6a92bd2d9f26d364e59cb"
+    }
+   ]
+  },
+  {
+   "slug": "piraquara/lei-2026-02657",
+   "unit": "piraquara",
+   "short": "Lei 2657/2026",
+   "title": "Lei nº 2.657, de 6 de abril de 2026",
+   "url": "https://sapl.piraquara.pr.leg.br/norma/3090",
+   "versions": [
+    {
+     "from": "2026-04-08",
+     "units": 3,
+     "source_url": "https://sapl.piraquara.pr.leg.br/media/sapl/public/normajuridica/2026/3090/lei_2657-08.04.2026.pdf",
+     "sha256": "9c657e814778edd31183d0d0f6c5d1bed5f968e305bdc4103504f3e599c92b36"
+    }
+   ]
+  },
+  {
+   "slug": "piraquara/lei-2026-02655",
+   "unit": "piraquara",
+   "short": "Lei 2655/2026",
+   "title": "Lei nº 2.655, de 6 de abril de 2026",
+   "url": "https://sapl.piraquara.pr.leg.br/norma/3087",
+   "versions": [
+    {
+     "from": "2026-04-08",
+     "units": 7,
+     "source_url": "https://sapl.piraquara.pr.leg.br/media/sapl/public/normajuridica/2026/3087/lei_2655-08.04.2026.pdf",
+     "sha256": "c98c5c9502134ca6932b9a80e815a0eb1433c7750eb2e030870ce69c132cface"
+    }
+   ]
+  },
+  {
+   "slug": "piraquara/lei-2026-02653",
+   "unit": "piraquara",
+   "short": "Lei 2653/2026",
+   "title": "Lei nº 2.653, de 18 de março de 2026",
+   "url": "https://sapl.piraquara.pr.leg.br/norma/3084",
+   "versions": [
+    {
+     "from": "2026-03-19",
+     "units": 7,
+     "source_url": "https://sapl.piraquara.pr.leg.br/media/sapl/public/normajuridica/2026/3084/lei_2653-19.03.2026.pdf",
+     "sha256": "95c26b3985959ef57a436f72de26370b34dd80c38b7b16592415553c8c5286c2"
+    }
+   ]
+  },
+  {
+   "slug": "piraquara/lei-2026-02652",
+   "unit": "piraquara",
+   "short": "Lei 2652/2026",
+   "title": "Lei nº 2.652, de 6 de março de 2026",
+   "url": "https://sapl.piraquara.pr.leg.br/norma/3081",
+   "versions": [
+    {
+     "from": "2026-03-10",
+     "units": 3,
+     "source_url": "https://sapl.piraquara.pr.leg.br/media/sapl/public/normajuridica/2026/3081/lei_no_2652-10.03.2026.pdf",
+     "sha256": "d92cc3f6a9cb4c65d5aabd6e07cd0e8845f7653ea06774127bdcd505cee4da8c"
+    }
+   ]
+  },
+  {
+   "slug": "piraquara/lei-2026-02651",
+   "unit": "piraquara",
+   "short": "Lei 2651/2026",
+   "title": "Lei nº 2.651, de 6 de março de 2026",
+   "url": "https://sapl.piraquara.pr.leg.br/norma/3083",
+   "versions": [
+    {
+     "from": "2026-03-10",
+     "units": 3,
+     "source_url": "https://sapl.piraquara.pr.leg.br/media/sapl/public/normajuridica/2026/3083/lei_2651-10.03.2026.pdf",
+     "sha256": "7995e70894281158290fa58c91bf581da5579d413c32e004008e93441d145695"
+    }
+   ]
+  },
+  {
+   "slug": "piraquara/lei-2026-02649",
+   "unit": "piraquara",
+   "short": "Lei 2649/2026",
+   "title": "Lei nº 2.649, de 6 de março de 2026",
+   "url": "https://sapl.piraquara.pr.leg.br/norma/3078",
+   "versions": [
+    {
+     "from": "2026-03-09",
+     "units": 3,
+     "source_url": "https://sapl.piraquara.pr.leg.br/media/sapl/public/normajuridica/2026/3078/lei_no_2.649-09.03.2026.pdf",
+     "sha256": "74ce2bd5d7cb7d51a5d3e2fc1c47229804cfc3f6671f7eb80d6fa302e4eff674"
+    }
+   ]
+  },
+  {
+   "slug": "piraquara/lei-2026-02648",
+   "unit": "piraquara",
+   "short": "Lei 2648/2026",
+   "title": "Lei nº 2.648, de 6 de março de 2026",
+   "url": "https://sapl.piraquara.pr.leg.br/norma/3079",
+   "versions": [
+    {
+     "from": "2026-03-09",
+     "units": 16,
+     "source_url": "https://sapl.piraquara.pr.leg.br/media/sapl/public/normajuridica/2026/3079/lei_no_2648-09.03.2026.pdf",
+     "sha256": "83b505a302af6db67ab75b0220ec6173a04c83551942d878146da63539eb8b49"
+    }
+   ]
+  },
+  {
+   "slug": "piraquara/lei-2026-02647",
+   "unit": "piraquara",
+   "short": "Lei 2647/2026",
+   "title": "Lei nº 2.647, de 6 de março de 2026",
+   "url": "https://sapl.piraquara.pr.leg.br/norma/4830",
+   "versions": [
+    {
+     "from": "2026-03-09",
+     "units": 7,
+     "source_url": "https://sapl.piraquara.pr.leg.br/media/sapl/public/normajuridica/2026/4830/lei_2647-06.03.2026.pdf",
+     "sha256": "ee9215e2d994820986525b6ae7764722ef2f7c9ef673ba1e2e69dc0da46a8bf7"
+    }
+   ]
+  },
+  {
+   "slug": "piraquara/lei-2026-02645",
+   "unit": "piraquara",
+   "short": "Lei 2645/2026",
+   "title": "Lei nº 2.645, de 24 de fevereiro de 2026",
+   "url": "https://sapl.piraquara.pr.leg.br/norma/3076",
+   "versions": [
+    {
+     "from": "2026-02-26",
+     "units": 3,
+     "source_url": "https://sapl.piraquara.pr.leg.br/media/sapl/public/normajuridica/2026/3076/lei_no_2.645-26.02.2026.pdf",
+     "sha256": "6bb9e10ea5ca74e554d4f0218b97f9a856428d4b29055cc02a948f87dfadffeb"
+    }
+   ]
+  },
+  {
+   "slug": "piraquara/lei-2026-02644",
+   "unit": "piraquara",
+   "short": "Lei 2644/2026",
+   "title": "Lei nº 2.644, de 24 de fevereiro de 2026",
+   "url": "https://sapl.piraquara.pr.leg.br/norma/3053",
+   "versions": [
+    {
+     "from": "2026-02-26",
+     "units": 8,
+     "source_url": "https://sapl.piraquara.pr.leg.br/media/sapl/public/normajuridica/2026/3053/lei_2644-24.02.2026.pdf",
+     "sha256": "5ff4ace170299a4b31363c3520360af9d148980fbc400e63be8b6bc2846d88f6"
+    }
+   ]
+  },
+  {
+   "slug": "piraquara/lei-2025-02636",
+   "unit": "piraquara",
+   "short": "Lei 2636/2025",
+   "title": "Lei nº 2.636, de 2 de dezembro de 2025",
+   "url": "https://sapl.piraquara.pr.leg.br/norma/1962",
+   "versions": [
+    {
+     "from": "2025-12-03",
+     "units": 7,
+     "source_url": "https://sapl.piraquara.pr.leg.br/media/sapl/public/normajuridica/2025/1962/lei_2636-03.12.2025.pdf",
+     "sha256": "6d4f710ddb2edfeffed9cf5d5156b6b426f5a1b60cd51eb638bf57578802a16a"
+    }
+   ]
+  }
+ ]
+}

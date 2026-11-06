@@ -1,0 +1,14 @@
+{
+  "path": "br-pr-municipal",
+  "code": "BR-PR-MUNICIPAL",
+  "name": "Paraná (municipal chambers)",
+  "level": "municipalities",
+  "parent": "br-pr",
+  "repo": "https://github.com/lexifina/brazil-parana-municipal-law",
+  "build": "built: the municipal law of Paraná from the Câmaras Municipais' SAPL",
+  "units": [
+    "piraquara",
+    "castro",
+    "irati"
+  ]
+}
